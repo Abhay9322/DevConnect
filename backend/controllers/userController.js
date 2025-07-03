@@ -1,7 +1,7 @@
 import User from '../models/userModel.js';
 import bcrypt from 'bcryptjs';
 import jwt from 'jsonwebtoken';
-import { use } from 'react';
+// import { use } from 'react';
 
 
 //  Register a new user
